@@ -1,0 +1,47 @@
+/* Signin.css */
+
+.signin-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: contain;
+    background: url("../Navbar/pet-bg.jpg");
+    background-position: center;
+  }
+  
+  .signin-container {
+    width: 400px; /* Increased width */
+    padding: 30px; /* Increased padding */
+    border-radius: 8px; /* Rounded corners */
+    background-color: rgba(235, 175, 92, 0.682); /* Clear background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  
+  
+  .signin-container button:hover {
+    background-color: rgba(165, 206, 232, 0.682);
+  }
+
+  .white-text {
+    color: white;
+  }
+
+  .stylish-input {
+    border: 2px solid #ddd; /* Example border */
+    border-radius: 4px; /* Rounded corners */
+    padding: 10px; /* Padding inside input */
+  }
+  
+  .bold-large-button {
+    font-weight: bold; /* Make the text bold */
+    font-size: 18px; /* Increase the font size to 18px */
+  }
+  
+  
+  
+  
+
+  
+  
